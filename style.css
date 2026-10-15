@@ -39,8 +39,8 @@ h2 {
   }
 }
 .profile-pic{
-   width: 400px;          /* change size as needed */
-    height: 400px;
+   width: 100px;          /* change size as needed */
+    height: 100px;
     object-fit: cover;     /* makes image nicely cropped */
     border-radius: 100%;    /* makes it a perfect circle */
     border: 3px solid #fff;
