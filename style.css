@@ -90,5 +90,15 @@ h2 {
 .skills-grid img:hover {
     transform: scale(1.1);
 }
+.profile-pic {
+    width: 120px !important;
+    height: 120px !important;
+    max-width: 120px !important;
+    display: block !important;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin: 0 auto !important;
+}
 
 
