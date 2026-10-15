@@ -38,14 +38,17 @@ h2 {
     flex-direction: column;
   }
 }
-.profile-pic{
-   width: 100px;          /* change size as needed */
-    height: 100px;
-    object-fit: cover;     /* makes image nicely cropped */
-    border-radius: 100%;    /* makes it a perfect circle */
+
+.profile-pic {
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
     border: 3px solid #fff;
-    margin-left: 500px;
+    margin: 0 auto;
 }
+
 .skills-container{
  .skills-section {
   text-align: center;
